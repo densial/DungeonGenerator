@@ -1,0 +1,18 @@
+{
+  "RunId": "c66a78b49798",
+  "AdventureDirectory": "dwarven-tomb",
+  "PreviousRunId": "60f290d5a3a4",
+  "Status": "Completed",
+  "PreviousStatus": "Completed",
+  "RecoveryMode": "ValidateCompletedArtifact",
+  "StartedAtUtc": "2026-10-07T23:55:39.06431+00:00",
+  "UpdatedAtUtc": "2026-10-07T23:57:44.095157+00:00",
+  "FinishedAtUtc": "2026-10-07T23:57:44.095157+00:00",
+  "ArtifactExists": true,
+  "ArtifactBytes": 100315,
+  "CheckpointCount": 1,
+  "LastCheckpointAtUtc": "2026-10-07T23:57:05.814027+00:00",
+  "LastCheckpointReason": "Append the missing template sections in final reading order: player handouts, treasure and special items, GM quick reference, and completed validation checklist.",
+  "LastError": null,
+  "ResponseCharacters": 4095
+}
